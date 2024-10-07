@@ -2,8 +2,7 @@
 ##### 10/7/24
 
 -----
-
-Text
+The topic i'm doing is music because it's the topic i'm most passionate about.
 
 [Next](entry02.md)
 
