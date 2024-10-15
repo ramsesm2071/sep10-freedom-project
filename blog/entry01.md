@@ -10,10 +10,9 @@ Some articles I read include  [Keep Your Brain Young with Music](https://www.hop
 
 I am currently in the second stage of the Engineering Design Process (EDP), where I need to research the problem I defined in stage one in greater depth. The problem I identified is that while online music provides artists with global exposure, it also poses challenges in ensuring fair compensation and has contributed to the decline of traditional music stores. In this stage, we are tasked with researching a topic we are passionate about and exploring how technology influences it. For example, technology has led to the development of software instruments, electronic production techniques, and Digital Audio Workstations (DAWs). These innovations give artists powerful tools to experiment with sounds, collaborate remotely, and produce music independently.
 
+## Skills
 
-
-
-
+A skill I learned while doing this freedom project is organization and time management because I dedicated different times of my day to this project and listen to music showing that I am able to structure my workflow where I am still motivated and passionate about working while also maintaining maximum productivity.
 
 [Next](entry02.md)
 
