@@ -16,6 +16,10 @@ One skill I developed during this freedom project is organization and time manag
 
 Another skill I improved is researching. I learned how to find and read different articles about music, technology, and the pros and cons of how technology affects the music industry, especially for artists. For example, while technology helps artists gain exposure across the globe, it also creates problems regarding how they get paid fairly. Doing this research has helped me deepen my understanding of music and motivated me to keep working hard on my project.
 
+##Summary
+
+
+
 [Next](entry02.md)
 
 [Home](../README.md)
