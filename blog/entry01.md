@@ -12,7 +12,9 @@ I am currently in the second stage of the Engineering Design Process (EDP), wher
 
 ## Skills
 
-A skill I learned while doing this freedom project is **organization and time management** because I dedicated different times of my day to this project while listening to music showing that I am able to structure my workflow where I am still motivated and passionate about working while also maintaining maximum productivity.
+A skill I learned while doing this freedom project is **organization and time management.** Because I dedicated different times of my day to this project while listening to music showing that I am able to structure my workflow where I am still motivated and passionate about working while also maintaining maximum productivity.
+
+Another skill I learned while doing this project is **researching skills.**  As I showed the ability to conduct research by exploring many different articles containing music, technology, and the pro's and con's of technology in the music industry such as how it affects artists. For example technology allows for artist's work to reach a global audience, but there are problems regarding compensation. This research helps deepen my understanding of music and only motivates me and my research further.
 
 [Next](entry02.md)
 
