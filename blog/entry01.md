@@ -11,7 +11,7 @@ Some articles I read include  [Keep Your Brain Young with Music](https://www.hop
 
 ## Engineering Design Process
 
-I am in the second stage of the engineering design process, where I must research more about the problem. The problem that I defined in stage one was that online music allows for exposure to a global audience, but that poses challenges regarding fair compensation for the artist.
+I am in the second stage of the engineering design process, where I must research more about the problem. The problem that I defined in stage one was that online music allows for exposure to a global audience, but that poses challenges regarding fair compensation for the artist. While in step 2 of the EDP (Engineering Deign ProcessA) we must research more about the topic we are passionate about and how technology is used in that topic. For example technology allowed for the accessibilty of online music which caused a decline in traditional music stores.
 
 [Next](entry02.md)
 
