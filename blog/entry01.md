@@ -11,7 +11,13 @@ Some articles I read include  [Keep Your Brain Young with Music](https://www.hop
 
 ## Engineering Design Process
 
-I am in the second stage of the engineering design process, where I must research more about the problem. The problem that I defined in stage one was that online music allows for exposure to a global audience, but that poses challenges regarding fair compensation for the artist. While in step 2 of the EDP (Engineering Deign Process) we must research more about the topic we are passionate about and how technology is used in that topic. For example technology created software instruments, electronic production techniques, and DAWs. (Digital Audio Workshops) These technological inventions allowed for artists access to powerful tools that help them by allowing them to experiment with sounds, collaborate remotely, and produce music independently.
+I am currently in the second stage of the Engineering Design Process (EDP), where I need to research the problem I defined in stage one in greater depth. The problem I identified is that while online music provides artists with global exposure, it also poses challenges in ensuring fair compensation and has contributed to the decline of traditional music stores. In this stage, we are tasked with researching a topic we are passionate about and exploring how technology influences it. For example, technology has led to the development of software instruments, electronic production techniques, and Digital Audio Workstations (DAWs). These innovations give artists powerful tools to experiment with sounds, collaborate remotely, and produce music independently.
+
+
+
+
+
+
 [Next](entry02.md)
 
 [Home](../README.md)
