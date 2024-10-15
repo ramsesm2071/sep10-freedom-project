@@ -12,9 +12,9 @@ I am currently in the second stage of the Engineering Design Process (EDP), wher
 
 ## Skills
 
-One skill I developed during this freedom project is organization and time management. I dedicated specific times of my day to work on the project while listening to music, which shows my ability to structure my workflow in a way that keeps me motivated and passionate, while also maintaining maximum productivity.
+One skill I developed during this freedom project is organization and time management. I made sure to plan my day and set aside specific times to work on the project, and I often listened to music while doing it. This helped me stay focused and enjoy the process keeping my productivity and motivation up, while also balancing my tasks better. By organizing my work schedule in a way that let me listen to music and get things done, I stayed motivated, even when things got harder. This way, I kept up with my work and made sure it was consistent.
 
-Another skill I gained is research skills. I demonstrated the ability to explore various articles about music, technology, and the pros and cons of technology in the music industry, particularly how it affects artists. For example, while technology allows artists' work to reach a global audience, it also presents challenges regarding fair compensation. This research has deepened my understanding of music and further motivated me in my project.
+Another skill I improved is researching. I learned how to find and read different articles about music, technology, and the pros and cons of how technology affects the music industry, especially for artists. For example, while technology helps artists gain exposure across the globe, it also creates problems regarding how they get paid fairly. Doing this research has helped me deepen my understanding of music and motivated me to keep working hard on my project.
 
 [Next](entry02.md)
 
