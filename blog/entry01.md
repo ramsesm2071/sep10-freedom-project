@@ -20,6 +20,9 @@ Another skill I improved is researching. I learned how to find and read differen
 
 In the end, I’m really excited to work on my project about music and how technology impacts the industry. It all started with my passion for music, which has been a significant part of my life and a great way for me to relieve stress. Through this project, I’ve learned a lot about how technology helps artists create and share their work, as well as the challenges they face, such as fair compensation. I find it fascinating how tools like DAWs (Digital Audio Workstations) have transformed the way music is produced and experienced, which has inspired me to explore making music myself and consider a career path that includes music.
 
+## Next Steps
+
+
 [Next](entry02.md)
 
 [Home](../README.md)
