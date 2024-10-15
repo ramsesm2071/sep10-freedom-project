@@ -12,7 +12,7 @@ I am currently in the second stage of the Engineering Design Process (EDP), wher
 
 ## Skills
 
-A skill I learned while doing this freedom project is organization and time management because I dedicated different times of my day to this project and listen to music showing that I am able to structure my workflow where I am still motivated and passionate about working while also maintaining maximum productivity.
+A skill I learned while doing this freedom project is *organization and time management* because I dedicated different times of my day to this project and listen to music showing that I am able to structure my workflow where I am still motivated and passionate about working while also maintaining maximum productivity.
 
 [Next](entry02.md)
 
