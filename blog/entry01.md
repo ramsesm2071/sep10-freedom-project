@@ -16,9 +16,9 @@ One skill I developed during this freedom project is organization and time manag
 
 Another skill I improved is researching. I learned how to find and read different articles about music, technology, and the pros and cons of how technology affects the music industry, especially for artists. For example, while technology helps artists gain exposure across the globe, it also creates problems regarding how they get paid fairly. Doing this research has helped me deepen my understanding of music and motivated me to keep working hard on my project.
 
-##Summary
+## Summary
 
-
+In the end, I'm really excited to work on my project about music and how technology impacts the industry. It all started with my passion for music, which has been a significant part of my life and a way for me to relieve stress. Through this project, I’ve learned so much about how technology helps artists create and share their work, but I've also discovered the challenges they face, like fair compensation. I find it fascinating how tools like Digital Audio Workstations (DAWs) have transformed the way music is produced and experienced.
 
 [Next](entry02.md)
 
