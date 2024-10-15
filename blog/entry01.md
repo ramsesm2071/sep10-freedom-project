@@ -1,4 +1,4 @@
-# Entry 1 Deciding My Freedom Project Topic
+# Entry 1 Deciding My Freedom Project Topic (Music)
 ##### 10/7/24
 
 -----
