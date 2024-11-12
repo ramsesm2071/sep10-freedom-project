@@ -1,5 +1,6 @@
-Entry 2 Of My Freedom Project Topic (Music)
-11/12/24
+# Entry 2 Of My Freedom Project Topic (Music)
+#### 11/12/24
+## Context
 The Freedom project is a year-long project and I have chosen music to be my topic, the last entry I did contained articles of the impact of music on the world and how it affected people in different ways including myself.
 
 Some articles I read include Keep Your Brain Young with Music by Yellowbrick, The Impact of Technology on Music: A Deep Dive created by John Hopkins medicine, The Impact Of Technology on the Music World made by MDLBEAST, and Achieving Fair Compensation for Artists: A Comprehensive Guide made by Yellowbrick. After reading this articles I thought it to be intriguing how music could affect oneself and the impact technology had on music as well as I also thought of the difficulties music artists faced.
