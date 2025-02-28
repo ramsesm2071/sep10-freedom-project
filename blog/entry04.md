@@ -8,8 +8,7 @@ The tool I have selected was A-frame, and have just recently started tinkering w
 -----
 ## Engineering Design Process
 
-
-I am currently in the second stage of the Engineering Design Process (EDP), where I need to research the problem I defined in stage one in greater depth. The problem I identified is that while online music provides artists with global exposure, it also poses challenges in ensuring fair compensation and has contributed to the decline of traditional music stores. In this stage, we are tasked with researching a topic we are passionate about and exploring how technology influences it. For example, technology has led to the development of software instruments, electronic production techniques, and Digital Audio Workstations (DAWs). These innovations give artists powerful tools to experiment with sounds, collaborate remotely, and produce music independently.
+I am currently in the sixth stage of the Engineering Design Process (EDP), where I test and evaluate the prototype, which is me just tinkering in my IDE using a-frame. So far I've been getting the hang of it quite quickly due to having a friend willing to help teach me the basics of A-frame and it's helped me get on my feet quite quickly.
 
 ## Skills
 
