@@ -1,8 +1,9 @@
 # Entry 4: Selecting and Using My Tool (A-frame)
 ##### 2/28/25
 
+## Context
 -----
-The tool I have selected was A-frame, and have just recently started tinkering with it due to tinkering with other tools such as [Flexbox-Froggy](http://flexboxfroggy.com/) and [Animate-CSS.](https://daneden.github.io/animate.css/) Causing me to lose out on a lot of time tinkering that need's to be made up with A-frame.
+The tool I have selected was A-frame, and have just recently started tinkering with it due to tinkering with other tools such as [Flexbox-Froggy](http://flexboxfroggy.com/) and [Animate-CSS.](https://daneden.github.io/animate.css/) Causing me to lose out on a lot of time tinkering that need's to be made up with A-frame. But A-frame is quite enjoyable to use and I find myself often getting engrossed when coding using A-frame.
 
 Some articles I read include  [Keep Your Brain Young with Music](https://www.hopkinsmedicine.org/health/wellness-and-prevention/keep-your-brain-young-with-music#:~:text=It%20provides%20a%20total%20brain,%2C%20mental%20alertness%2C%20and%20memory.) by Yellowbrick, [The Impact of Technology on Music: A Deep Dive](https://www.yellowbrick.co/blog/entertainment/the-impact-of-technology-on-music-a-deep-dive) created by John Hopkins medicine, [The Impact Of Technology on the Music World](https://mdlbeast.com/xp-feed/music-industry/the-impact-of-technology-on-the-music-world) made by MDLBEAST, and [Achieving Fair Compensation for Artists: A Comprehensive Guide](https://www.yellowbrick.co/blog/entertainment/achieving-fair-compensation-for-artists-a-comprehensive-guide#:~:text=Artists%20face%20challenges%20such%20as,a%20living%20from%20their%20craft.) made by Yellowbrick. After reading this articles I thought it to be intriguing how music could affect oneself and the impact technology had on music as well as I also thought of the difficulties music artists faced.
 
