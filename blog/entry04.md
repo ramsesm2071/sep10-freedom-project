@@ -14,16 +14,21 @@ I am currently in the sixth stage of the Engineering Design Process (EDP), where
 
 ## Skills
 
-(Text Here)
+After working with multiple groups of partners, while most went fine some were quite shaky and had their own set of hardships that came with each group, but one specific group I had trouble with was where I needed to constantly help 2 teammates which was very stressing but in the end 
 
 -----
 
 ## Summary
 
-In the end, I’m really excited to work on my project about music and how technology impacts the industry. It all started with my passion for music, which has been a significant part of my life and a great way for me to relieve stress. Through this project, I’ve learned a lot about how technology helps artists create and share their work, as well as the challenges they face, such as fair compensation. I find it fascinating how tools like DAWs (Digital Audio Workstations) have transformed the way music is produced and experienced, which has inspired me to explore making music myself and consider a career path that includes music.
+(Text Here)
+
+-----
 
 ## Next Steps
-I look forward to continuing my research on how technology impacts music and exploring the various tools that artists use to create. I’m excited to learn more about the innovations in music production, understand the challenges artists face, and discover how I can apply this knowledge to my own creative journey.
+
+(Text Here)
+
+-----
 
 [Next](entry02.md)
 
