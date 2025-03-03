@@ -8,7 +8,7 @@ The tool I have selected was [A-frame,](https://aframe.io/) and have just recent
 -----
 ## Engineering Design Process
 
-I am currently in the sixth stage of the Engineering Design Process (EDP), where I test and evaluate the prototype, which is me just tinkering in my IDE using a-frame. So far I've been getting the hang of it quite quickly due to having a friend willing to help teach me the basics of A-frame and it's helped me learned a lot in a little bit of time.
+I am currently in the sixth stage of the Engineering Design Process (EDP), where I test and evaluate the prototype, which is me just tinkering in my IDE using a-frame and trying to replicate any ideas I may have. So far I've been getting the hang of it quite quickly due to having a friend willing to help teach me the basics of A-frame and it's helped me learned a lot in a little bit of time.
 
 -----
 
