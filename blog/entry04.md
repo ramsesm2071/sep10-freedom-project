@@ -22,13 +22,13 @@ Another skill that I learned was breaking the parts of the project into smaller 
 
 ## Summary
 
-All in all, I think the partnerships good and bad as well as all the mistakes I've made have really shaped and made me a better coder, because I was able to learn how to work better with others, and work better when by myself.
+All in all, I think the partnerships good and bad as well as all the mistakes I've made have really shaped and made me a better coder, because I was able to learn how to work better with others, and work better when by myself while also enjoying the projects or assignments I worked on especially the CYOA or choose your own adventure project. I really hope we do another one soon as it was something I really loved doing.
 
 -----
 
 ## Next Steps
 
-(Text Here)
+For my next steps I was thinking of doing my own CYOA project or maybe trying to get friends or classmates to join me on a topic we can all agree on. Or we use one of the pre-determined options that were set.
 
 -----
 
