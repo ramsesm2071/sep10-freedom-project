@@ -28,7 +28,7 @@ All in all, I think the partnerships good and bad as well as all the mistakes I'
 
 ## Next Steps
 
-For my next steps I was thinking of doing my own CYOA project or maybe trying to get friends or classmates to join me on a topic we can all agree on. Or we use one of the pre-determined options that were set.
+For my next steps I was thinking of doing my own CYOA project or maybe trying to get friends to assist me on a topic we can all agree on. Or we use one of the pre-determined options that were set by the teacher.
 
 -----
 
