@@ -22,7 +22,7 @@ Another skill that I learned was breaking the parts of the project into smaller 
 
 ## Summary
 
-(Text Here)
+All in all, I think the partnerships good and bad as well as all the mistakes I've made have really shaped and made me a better coder, because I was able to learn how to work better with others, and work better when by myself.
 
 -----
 
