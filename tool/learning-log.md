@@ -9,7 +9,8 @@
 
 ## Learning Log 4
 ### 3/27/25:
-* After 
+* After not doing my learning logs for a while I had a lot to catch up on, so I needed to binge watch multiple videos, which are listed below:
+  *   
 
 
 <!-- 
