@@ -51,10 +51,28 @@
       animation__fusing="property: scale; from: 1 1 1; to: 0.1 0.1 0.1; easing: easeInCubic; dur: 150; startEvents: fusing"></a-cursor>
   </a-camera>
 
+  <html>
+    <head>
+      <title>360° Image Browser</title>
+      <script src="https://aframe.io/releases/1.7.0/aframe.min.js"></script>
+      <script src="https://unpkg.com/aframe-template-component@3.x.x/dist/aframe-template-component.min.js"></script>
+      <script src="https://unpkg.com/aframe-layout-component@5.x.x/dist/aframe-layout-component.min.js"></script>
+      <script src="https://unpkg.com/aframe-event-set-component@5.x.x/dist/aframe-event-set-component.min.js"></script>
+       <script src="https://unpkg.com/aframe-proxy-event-component@2.1.0/dist/aframe-proxy-event-component.min.jss"></script>
+
+    </head>
+
+            <script id="link" type="text/html">
             <a-entity  class="link"
             geometry="primitive: plane; height: 1; width: 1"
             material="shader: flat; src: #cubes-thumb"
             sound="on: click; src: #click-sound"></a-entity>
+            </script>
+
+            <a-entity template="src: #link" data-thumb="#city-thumb"></a-entity>
+            <a-entity template="src: #link" data-thumb="#cubes-thumb"></a-entity>
+            <a-entity template="src: #link" data-thumb="#sechelt-thumb"></a-entity>
+
                 <!--Snowman-->
                 <!--Body-->
                 <a-sphere position="0 0.5 0" radius="1.15" color="#white"></a-sphere>
