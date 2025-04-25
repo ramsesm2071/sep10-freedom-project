@@ -5,13 +5,23 @@
 * [Desktop]()
 
 ## Colors
-* `#ABC123`
+* Purple
+* Black
+* White (Small Amount)
+
 
 ## Fonts
-* [Text](URL)
+* Oswald (Header or text)<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Oswald:wght@200..700&display=swap" rel="stylesheet">
 
 ## Timeline
-
+* Add Navbar
+* Add Carousel
+* Add Logo
+* Add placeholder text
+* Add font(s)
+*
 #### MVP
 
 * Task/Timeline

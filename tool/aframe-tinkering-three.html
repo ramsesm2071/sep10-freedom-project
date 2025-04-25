@@ -1,0 +1,79 @@
+<a-scene>
+    <a-assets>
+      <audio id="click-sound" src="https://cdn.aframe.io/360-image-gallery-boilerplate/audio/click.ogg"></audio>
+
+      <!-- Images. -->
+      <img id="city" src="https://cdn.aframe.io/360-image-gallery-boilerplate/img/city.jpg">
+      <img id="city-thumb" src="https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-city.jpg">
+      <img id="cubes" src="https://cdn.aframe.io/360-image-gallery-boilerplate/img/cubes.jpg">
+      <img id="cubes-thumb" src="https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-cubes.jpg">
+      <img id="sechelt" src="https://cdn.aframe.io/360-image-gallery-boilerplate/img/sechelt.jpg">
+      <img id="sechelt-thumb" src="https://cdn.aframe.io/360-image-gallery-boilerplate/img/thumb-sechelt.jpg">
+
+      <a-entity template="src: #link"></a-entity>
+      <a-entity template="src: #link"></a-entity>
+      <a-entity template="src: #link"></a-entity>
+
+      <a-entity id="links" layout="type: line; margin: 1.5" position="-1.5 -1 -4">
+        <a-entity template="src: #link" data-thumb="#city-thumb"></a-entity>
+        <a-entity template="src: #link" data-thumb="#cubes-thumb"></a-entity>
+        <a-entity template="src: #link" data-thumb="#sechelt-thumb"></a-entity>
+      </a-entity>
+
+
+        <!-- ... -->
+        <a-entity class="link"
+  geometry="primitive: plane; height: 1; width: 1"
+  material="shader: flat; src: #cubes-thumb"
+  sound="on: click; src: #click-sound"></a-entity>
+
+
+      <!-- ... -->
+
+      <!-- Pass image sources to the template. -->
+      <a-entity template="src: #link" data-thumb="#city-thumb"></a-entity>
+      <a-entity template="src: #link" data-thumb="#cubes-thumb"></a-entity>
+      <a-entity template="src: #link" data-thumb="#sechelt-thumb"></a-entity>
+
+
+
+
+    <!-- 360-degree image. -->
+    <a-sky id="image-360" radius="10" src="#city"></a-sky>
+
+    <!-- Link template we will build. -->
+    <a-entity class="link"
+  geometry="primitive: plane; height: 1; width: 1"
+  material="shader: flat; src: #cubes-thumb"
+  sound="on: click; src: #click-sound"></a-entity>
+
+    <!-- Camera + Cursor. -->
+    <a-camera>
+      <a-cursor
+        id="cursor"
+        animation__click="property: scale; from: 0.1 0.1 0.1; to: 1 1 1; easing: easeInCubic; dur: 150; startEvents: click"
+        animation__clickreset="property: scale; to: 0.1 0.1 0.1; dur: 1; startEvents: animationcomplete__click"
+        animation__fusing="property: scale; from: 1 1 1; to: 0.1 0.1 0.1; easing: easeInCubic; dur: 150; startEvents: fusing"></a-cursor>
+    </a-camera>
+
+
+    <html>
+  <head>
+    <title>360° Image Browser</title>
+    <script src="https://aframe.io/releases/1.7.0/aframe.min.js"></script>
+    <script src="https://unpkg.com/aframe-template-component@3.x.x/dist/aframe-template-component.min.js"></script>
+    <script src="https://unpkg.com/aframe-layout-component@5.x.x/dist/aframe-layout-component.min.js"></script>
+    <script src="https://unpkg.com/aframe-event-set-component@5.x.x/dist/aframe-event-set-component.min.js"></script>
+     <script src="https://unpkg.com/aframe-proxy-event-component@2.1.0/dist/aframe-proxy-event-component.min.jss"></script>
+
+
+    </a-assets>
+  </head>
+  <body>
+    <a-scene>
+      <!-- ... -->
+    </a-scene>
+  </body>
+</html>
+
+  </a-scene>
