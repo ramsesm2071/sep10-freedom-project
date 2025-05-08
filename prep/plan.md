@@ -37,7 +37,7 @@
 * Show A-frame Usage
 * Try to use more components
 * Add more context
-* 
+* Add more to navbar
 
 
 <!-- DO NOT USE THIS YET
