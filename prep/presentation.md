@@ -4,7 +4,7 @@
 * Imagine a pair of headphones that could make whatever song you think of, and you could share this song to all your friends, or even make a song with those friends!
 
 ## Product
-* These a
+* Well imagine no longer, because these pair of headphones are called [Brain Beats](https://ramsesm2071.github.io/sep10-freedom-project/), and they can create a song using your brainwaves that can be shared to all your friends.
 
 ## Process
 * 
