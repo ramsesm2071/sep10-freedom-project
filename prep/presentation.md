@@ -1,10 +1,10 @@
 # Presentation Plan
 
 ## Hook
-* 
+* Imagine a pair of headphones that could make whatever song you think of, and you could share this song to all your friends, or even make a song with those friends!
 
 ## Product
-* 
+* These a
 
 ## Process
 * 
