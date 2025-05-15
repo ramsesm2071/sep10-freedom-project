@@ -7,11 +7,11 @@
 * Well imagine no longer, because these pair of headphones are called [Brain Beats](https://ramsesm2071.github.io/sep10-freedom-project/), and they can create a song using your brainwaves that can be shared to all your friends.
 
 ## Process
-* I first thought of this idea when I thought of a pair of headphones that could play music based on your mood but it had already been made, so I wanted to take it up a notch and create an improved version. Then when I started brainstorming I came up with many ideas and kept going and going, until I thought I had a lot of features already added, I started to work on a wireframe and my tool which was A-frame, then I used my finished and revised wireframe to make my website and I thought it turned out [well](https://ramsesm2071.github.io/sep10-freedom-project/).
+* I first thought of this idea when I thought of a pair of headphones that could play music based on your mood but it had already been made, so I wanted to take it up a notch and create an improved version. Then when I started brainstorming I came up with many ideas and kept going and going, until I thought I had a lot of features already added, I started to work on a wireframe and my tool which was A-frame, then I used my finished and revised wireframe to make my website and I thought it turned out well.
 
 
 ## Conclusion
-* 
+* Something I learned from this project was to take it serious and not to procrastinate it, but also make time for it because when I finally started doing the project and made time for it I really enjoyed doing it and I'm happy of my end product.
 
 <!-- EXAMPLE
 
